@@ -6,6 +6,6 @@ metadata:
   annotations:
     github.com/project-slug: thalam/demoA
 spec:
-  type: website
+  type: library
   owner: Nihanth Joseph
   lifecycle: experimental
